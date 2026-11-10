@@ -137,7 +137,6 @@ Com essa correção, a Cifra de César passa a subtrair 8 de `piqt(kim{iz)`, val
 Para rodar a versão corrigida interativamente:
 
 ```cmd
-cd /d "D:\WENCON\SOFTWARE wecon\PROJETO_MONTADORA_CAIXAS\03_IHM_PI3070IG\tools\TESTE"
 bomb_corrigido.exe
 ```
 
